@@ -1,1 +1,1 @@
-# maven-kup-assignment
+For code execution type - mvn package exec:java
